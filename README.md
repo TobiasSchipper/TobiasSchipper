@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋, I'm Tobias </h1>
 <p align="center">
-<img src="[demo.gif](https://github.com/TobiasSchipper/TobiasSchipper/blob/main/funni-face.gif)" alt="animated" />
+<img src="https://github.com/TobiasSchipper/TobiasSchipper/blob/main/funni-face.gif" alt="animated" />
 </p>
 <!--
 **TobiasSchipper/TobiasSchipper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
