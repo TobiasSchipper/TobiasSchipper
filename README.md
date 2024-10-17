@@ -1,4 +1,4 @@
-Hi there 👋, I'm Tobias
+<h1 align="center"> Hi there 👋, I'm Tobias </h1>
 
 ![](https://github.com/TobiasSchipper/TobiasSchipper/blob/main/funni-face.gif)
 <!--
